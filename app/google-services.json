@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020864771846",
+    "firebase_url": "https://glossy-handler-303920-default-rtdb.firebaseio.com",
+    "project_id": "glossy-handler-303920",
+    "storage_bucket": "glossy-handler-303920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020864771846:android:a15ff28e125d13d64e1087",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020864771846-6vintks3fho6rq26cjog5fe3ocut3fe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracker",
+            "certificate_hash": "ce571d290280c98688c170e641c0d2b1869f439f"
+          }
+        },
+        {
+          "client_id": "1020864771846-ouunq9id155dgbgeoufesoeactih8d91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDedCMb5Sm-rnbdGKPTIqTVk9YcjzKmbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020864771846-ouunq9id155dgbgeoufesoeactih8d91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

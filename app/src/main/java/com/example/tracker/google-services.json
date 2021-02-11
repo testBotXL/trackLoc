@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020864771846",
+    "firebase_url": "https://glossy-handler-303920-default-rtdb.firebaseio.com",
+    "project_id": "glossy-handler-303920",
+    "storage_bucket": "glossy-handler-303920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020864771846:android:0b0a8fee3b1f29a44e1087",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020864771846-ouunq9id155dgbgeoufesoeactih8d91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ci_LimJq0OH3sfBaXqZxLgKo0yTtloo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020864771846-ouunq9id155dgbgeoufesoeactih8d91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
